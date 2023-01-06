@@ -13,7 +13,7 @@ as well as national and international research projects concerning circular econ
 The research objectives of DICE are as follows:
 
 - Gather industry knowledge and needs related to digitalisation and circular economy
-- Survey state-of-the-art on research related to data sharing
-- Develop a “digital toolbox” of components supporting a broader range of circular economy strategies
+- Analyse state-of-the-art research related to federated data sharing applied in industry
 - Improve SINTEF internal knowledge exchange in the circular economy, data sharing and digitalisation
 nexus
+- Develop a “digital toolbox” of components supporting a broader range of circular economy strategies

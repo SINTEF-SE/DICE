@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "DICE - Research Objectives",
-        "excerpt":"The long-term objective is to position SINTEF Digital as an attractive R&amp;D partner in industry assignments as well as national and international research projects concerning circular economy initiatives. The research objectives of DICE are as follows: Gather industry knowledge and needs related to digitalisation and circular economy Survey state-of-the-art on...","categories": [],
+        "excerpt":"The long-term objective is to position SINTEF Digital as an attractive R&amp;D partner in industry assignments as well as national and international research projects concerning circular economy initiatives. The research objectives of DICE are as follows: Gather industry knowledge and needs related to digitalisation and circular economy Analyse state-of-the-art research...","categories": [],
         "tags": [],
         "url": "/maas/motivation/",
         "teaser": null
