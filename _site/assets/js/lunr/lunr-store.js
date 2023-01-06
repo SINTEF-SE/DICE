@@ -1,6 +1,6 @@
 var store = [{
         "title": "Literature Analysis",
-        "excerpt":"The literature analysis aims to get an overview of the state-of-the-art related to federated data sharing…  ","categories": [],
+        "excerpt":"The literature analysis aims to get an overview of the state-of-the-art related to federated data sharing. The research questions sought addressed are: RQ 1: To what extent is federated data sharing covered in recent research literature? RQ 2: Which key concepts and technologies are mentioned in relation to federated data...","categories": [],
         "tags": [],
         "url": "/maas/intro/",
         "teaser": null
