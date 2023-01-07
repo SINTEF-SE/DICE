@@ -1,26 +1,20 @@
 main:
-#  - title: "News"
-#    url: /news/
+  - title: "News"
+    url: /news/
   - title: "Research Objectives"
-    url: /maas/motivation/
+    url: /dice/objectives/
   - title: "Literature Analysis"
-    url: /maas/intro/
-  - title: "Software Development"
-    url: /maas/todo/
-#  - title: "About DICE"
-#    url: /about/
+    url: /dice/literature_analysis/
 
-maas:
-#  - title: Literature Analysis
-#    children:
-#      - title: "Systematic Mapping Study"
-#        url: /maas/intro/
-#      - title: "Bibliometric Analysis"
-#        url: /maas/actors/
+dice:
+  - title: Literature Analysis
+    children:
+      - title: "Approach"
+        url: /dice/approach/
+      - title: "Included articles"
+        url: /dice/included_articles/
+      - title: "Systematic Mapping Study"
+        url: /dice/sms/
+      - title: "Bibliometric Analysis"
+        url: /dice/bibliometric/
 
-#  - title: Software Development
-#    children:
-#      - title: "Topics in Research"
-#        url: /maas/researchtopics/
-#      - title: "Barriers"
-#        url: /maas/businessbarriers/

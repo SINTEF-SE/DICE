@@ -67,7 +67,7 @@ footer:
 
 # Collections
 collections:
-  maas:
+  dice:
     output: true
     permalink: /:collection/:path/
 
@@ -79,10 +79,10 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _maas
+  # _dice
   - scope:
       path: ""
-      type: maas
+      type: dice
     values:
       layout: single
       read_time: false
@@ -90,7 +90,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "maas"
+        nav: "dice"
 
 category_archive:
   type: liquid

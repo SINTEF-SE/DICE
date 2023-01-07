@@ -1,6 +1,6 @@
 ---
 title: "DICE - Research Objectives"
-permalink: /maas/motivation/
+permalink: /dice/objectives/
 excerpt: "Research objectives in DICE"
 last_modified_at: 2023-01-05T15:00:00 +01:00
 redirect_from:

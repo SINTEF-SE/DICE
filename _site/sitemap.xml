@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/maas/intro/</loc>
+<loc>http://localhost:4000/dice/literature_analysis/</loc>
 <lastmod>2023-01-05T10:00:00+01:00</lastmod>
 </url>
 <url>
@@ -9,12 +9,24 @@
 <lastmod>2020-01-14T15:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/maas/motivation/</loc>
+<loc>http://localhost:4000/dice/objectives/</loc>
 <lastmod>2023-01-05T15:00:00+01:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/maas/todo/</loc>
-<lastmod>2023-01-05T15:00:00+01:00</lastmod>
+<loc>http://localhost:4000/dice/included_articles/</loc>
+<lastmod>2023-01-07T10:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/dice/approach/</loc>
+<lastmod>2023-01-07T15:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/dice/sms/</loc>
+<lastmod>2023-01-07T15:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/dice/bibliometric/</loc>
+<lastmod>2023-01-07T15:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -30,5 +42,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/news/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/images/literature_search.pdf</loc>
+<lastmod>2023-01-06T10:09:30+01:00</lastmod>
 </url>
 </urlset>
