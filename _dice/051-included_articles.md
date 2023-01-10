@@ -7,7 +7,7 @@ redirect_from:
   - /dice/
 #toc: true
 ---
-The following articles are included in the literature study conducted in DICE:
+The articles listed below are included in the literature study conducted in DICE. A BibTeX file containing references to all included articles can be downloaded from [here](/assets/files/DICE_LiteratureStudy_IncludedArticles.bib).
 
 G. Zangara, D. Terrana, P. P. Corso, M. Ughetti, and G. Montalbano, ‘A Cloud Federation Architecture’, in Proc. - Int. Conf. P2P, Parallel, Grid, Cloud Internet Comput., 3PGCIC, 2015, pp. 498–503. doi: 10.1109/3PGCIC.2015.183.
 
